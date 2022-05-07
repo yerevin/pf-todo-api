@@ -1,0 +1,4 @@
+SALT_FACTOR: 10
+
+db:
+    uri: "mongodb://mongodb:27017/fastify-api"
